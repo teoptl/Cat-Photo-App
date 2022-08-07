@@ -4,7 +4,6 @@
 
 HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
 
-In this course, you'll learn the most common HTML tags by building your own cat photo app.
+In <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1">this course</a>, you'll learn the most common HTML tags by building your own cat photo app.
 
-Click <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-1">here</a> to start the course.
-with <a href="https://freecodecamp.org">freeCodeCamp</a>.
+<a href="https://freecodecamp.org">freeCodeCamp</a>.
