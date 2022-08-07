@@ -1,6 +1,8 @@
 # CatPhotoApp
 
-<a target="_blank" href="https://teoptl.github.io/CatPhotoApp/>CatPhotoApp</a>
+<h2>
+  <a target="_blank" href="https://teoptl.github.io/CatPhotoApp">CatPhotoApp</a>
+</h2>
 
 <strong>Learn HTML by Building a Cat Photo App with <a target="_blank" href="https://freecodecamp.org">freeCodeCamp</a></strong>
 
