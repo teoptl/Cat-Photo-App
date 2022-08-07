@@ -1,5 +1,7 @@
 # CatPhotoApp
-<a target="_blank" href="https://teoptl.github.io/CatPhotoApp>CatPhotoApp</a>
+
+<a target="_blank" href="https://teoptl.github.io/CatPhotoApp/>CatPhotoApp</a>
+
 <strong>Learn HTML by Building a Cat Photo App with <a target="_blank" href="https://freecodecamp.org">freeCodeCamp</a></strong>
 
 HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
