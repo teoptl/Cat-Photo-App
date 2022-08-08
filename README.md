@@ -1,6 +1,6 @@
 # Cat-Photo-App
 
-<strong>Learn HTML by building a <a href="https://teoptl.github.io/CatPhotoApp">cat photo app</a>.</strong>
+<strong>Learn HTML by building a <a href="https://teoptl.github.io/Cat-Photo-App">cat photo app</a>.</strong>
 
 HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
 
