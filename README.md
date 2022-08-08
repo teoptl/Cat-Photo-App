@@ -1,4 +1,4 @@
-# Cat Photo App
+# Cat-Photo-App
 
 <strong>Learn HTML by building a <a href="https://teoptl.github.io/CatPhotoApp">cat photo app</a>.</strong>
 
